@@ -29,6 +29,7 @@
     * [Junior Penetration Tester Path](cybersecurity/red-team/htb/junior-penetration-tester-path/README.md)
       * [Penetration Testing Process](cybersecurity/red-team/htb/junior-penetration-tester-path/penetration-testing-process.md)
       * [Fundamentals](cybersecurity/red-team/htb/junior-penetration-tester-path/fundamentals.md)
+      * [NMAP](cybersecurity/red-team/htb/junior-penetration-tester-path/nmap.md)
 * [💙 Blue Team](cybersecurity/blue-team.md)
 * [CTF](cybersecurity/ctf/README.md)
   * [PICO](cybersecurity/ctf/pico/README.md)

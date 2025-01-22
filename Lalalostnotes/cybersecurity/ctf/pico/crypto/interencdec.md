@@ -8,7 +8,7 @@ YidkM0JxZGtwQlRYdHFhR3g2YUhsZmF6TnFlVGwzWVROclh6ZzJhMnd6TW1zeWZRPT0nCg==
 
 I try to encode from the Cyber Chef and here's the result:
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Decoding Process:
 
@@ -28,7 +28,7 @@ wpjvJAM{jhlzhy_k3jy9wa3k_86kl32k2}
 
 The challenge gives clue the strings was encoded many time and base64, caesar mentioned on the description. So, let's move to Caesar Chiper for brute force possible shift
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 

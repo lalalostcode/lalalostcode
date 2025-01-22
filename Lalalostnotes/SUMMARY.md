@@ -24,7 +24,11 @@
 ## Cybersecurity
 
 * [Fundamentals](cybersecurity/fundamentals.md)
-* [⭕ Red Team](cybersecurity/red-team.md)
+* [⭕ Red Team](cybersecurity/red-team/README.md)
+  * [HTB](cybersecurity/red-team/htb/README.md)
+    * [Junior Penetration Tester Path](cybersecurity/red-team/htb/junior-penetration-tester-path/README.md)
+      * [Penetration Testing Process](cybersecurity/red-team/htb/junior-penetration-tester-path/penetration-testing-process.md)
+      * [Fundamentals](cybersecurity/red-team/htb/junior-penetration-tester-path/fundamentals.md)
 * [💙 Blue Team](cybersecurity/blue-team.md)
 * [CTF](cybersecurity/ctf/README.md)
   * [PICO](cybersecurity/ctf/pico/README.md)

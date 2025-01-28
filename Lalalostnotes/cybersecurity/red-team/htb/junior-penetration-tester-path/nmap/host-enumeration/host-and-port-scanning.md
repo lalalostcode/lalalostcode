@@ -1,3 +1,7 @@
+---
+icon: '2'
+---
+
 # Host and Port Scanning
 
 There are a total of 6 different states for a scanned port we can obtain:

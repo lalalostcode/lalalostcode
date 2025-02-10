@@ -38,6 +38,8 @@
           * [Performance](cybersecurity/red-team/htb/junior-penetration-tester-path/nmap/host-enumeration/performance.md)
         * [🔐 Bypass Security Measures](cybersecurity/red-team/htb/junior-penetration-tester-path/nmap/bypass-security-measures/README.md)
           * [Firewall and IDS/IPS Evasion](cybersecurity/red-team/htb/junior-penetration-tester-path/nmap/bypass-security-measures/firewall-and-ids-ips-evasion.md)
+        * [Footprinting](cybersecurity/red-team/htb/junior-penetration-tester-path/nmap/footprinting/README.md)
+          * [FTP](cybersecurity/red-team/htb/junior-penetration-tester-path/nmap/footprinting/ftp.md)
 * [💙 Blue Team](cybersecurity/blue-team.md)
 * [CTF](cybersecurity/ctf/README.md)
   * [PICO](cybersecurity/ctf/pico/README.md)

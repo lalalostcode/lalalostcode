@@ -63,3 +63,9 @@
     * [WEB](cybersecurity/ctf/hacker-101/web/README.md)
       * [Micro-CMS v1](cybersecurity/ctf/hacker-101/web/micro-cms-v1.md)
 * [Page](cybersecurity/page.md)
+
+## DATA, ML, AI
+
+* [Associate Data Science With Python](data-ml-ai/associate-data-science-with-python/README.md)
+  * [Page 5](data-ml-ai/associate-data-science-with-python/page-5.md)
+* [Page 3](data-ml-ai/page-3.md)

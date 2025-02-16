@@ -41,6 +41,7 @@
         * [Footprinting](cybersecurity/red-team/htb/junior-penetration-tester-path/nmap/footprinting/README.md)
           * [FTP](cybersecurity/red-team/htb/junior-penetration-tester-path/nmap/footprinting/ftp.md)
           * [SMB](cybersecurity/red-team/htb/junior-penetration-tester-path/nmap/footprinting/smb.md)
+          * [NFS](cybersecurity/red-team/htb/junior-penetration-tester-path/nmap/footprinting/nfs.md)
       * [Footprinting](cybersecurity/red-team/htb/junior-penetration-tester-path/footprinting/README.md)
         * [Introduction](cybersecurity/red-team/htb/junior-penetration-tester-path/footprinting/introduction.md)
         * [FTP](cybersecurity/red-team/htb/junior-penetration-tester-path/footprinting/ftp.md)

@@ -15,4 +15,4 @@
 * What reasons can there be that we do not see?
 * What image results for us from what we do not see?
 
-<figure><img src="../../../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>

@@ -1,0 +1,40 @@
+name: Generate Snake Animation
+
+on:
+  # Berjalan otomatis setiap 12 jam sekali
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Biar lo bisa pencet tombol "Run" manual kapan aja
+  workflow_dispatch:
+  
+  # Berjalan otomatis setiap kali lo update README di branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # Membuat animasi ular berdasarkan kontribusi akun lalalostcode
+      - name: Generate github-contribution-grid-snake.svg
+        uses: platane/snk/svg-only@v3
+        with:
+          github_user_name: lalalostcode
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      # Mengirimkan hasilnya ke branch khusus bernama 'output'
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

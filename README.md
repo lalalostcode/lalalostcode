@@ -35,16 +35,6 @@
 
 * **High-Throughput Ingestion:** Designing asynchronous scraping architectures and parsing pipelines to extract and process massive unstructured data streams cleanly. * **Model Customization & Quantization:** Fine-tuning open-source language models utilizing accelerated compute kernels (QLoRA) and preference alignment protocols (SFT/DPO/GRPO). * **Containerized Infrastructure:** Orchestrating multi-component environments using Docker, Kubernetes, and automated workflow DAGs for reproducible states. ---
 
-## 🏆 Achievements & Reputation Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lalalostcode&theme=rose_pine&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 📊 Dynamic Developer Activity & Metrics
 
 ### 📈 Contribution Velocity & Commit Streak
@@ -67,7 +57,6 @@
   </picture>
 </p>
 
-> *Note: Untuk mengaktifkan animasi ular (Snake Game) di atas memakan kontribusi kotak hijau kamu, kamu cukup mengaktifkan GitHub Actions otomatis menggunakan workflow generator seperti `platane/snk` di repositori profilmu.*
 
 ---
 

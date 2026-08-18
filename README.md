@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Ilham Rafiqin (aka lalalostcode) ### Data Engineer & LLM Infrastructure Specialist <p align="center">
+# 🚀 Hi, I'm Ilham Rafiqin  ### Data Engineer & LLM Infrastructure Specialist <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A7C59&width=500&lines=Building+Data+Ecosystems;Fine-Tuning+LLM+Pipelines;Optimizing+Cloud+Infrastructure;Orchestrating+Distributed+Systems" alt="Typing SVG" />
 </p>
 
